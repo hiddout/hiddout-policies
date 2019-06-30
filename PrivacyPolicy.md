@@ -65,6 +65,8 @@ We use analytics partners (such as Cloudflare) to help analyze usage and traffic
 Most modern web browsers give you the option to send a Do Not Track signal to the websites you visit, indicating that you do not wish to be tracked. However, there is no accepted standard for how a website should respond to this signal, and we do not take any action in response to this signal. 
 Instead, Hiddout suggests all users do not submit any information that could reasonably be used to identify you.
 
+Also try using browser like **Brave**, **Tor** instead of **Chrome** for better privacy protection. 
+
 ### Your data protection rights
 Hiddout would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
