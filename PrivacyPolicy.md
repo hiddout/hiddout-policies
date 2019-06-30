@@ -38,7 +38,7 @@ When you use the Services, certain information may be shared with other users an
 * When you submit content (such as a post or comment or public chat) to the Services, any visitors to and users of our Services will be able to see that content, the username associated with the content, and time you originally submitted the content.
 Hiddout post is using short time URL for public visiting, which means any post's link copy from Hiddout will only last a few minutes before expired, after this time there is on way to see the post via link again unless directly go to Hiddout website to found the post again.
 
-* When you send private messages to other usersthe recipients of those messages will be able to see the content of your message, your username, and the date and time the message was sent. 
+* When you send private messages to other users the recipients of those messages will be able to see the content of your message, your username, and the date and time the message was sent. 
 
 * When other users view your profile, they will be able to see information about your activities on the Services, such as your username, how many people views your page.
 
