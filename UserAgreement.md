@@ -2,7 +2,7 @@
 **Hiddout is not aiming for an open entertainment platform**. 
 
 What that means is, if you are looking for sharing some very important idea and talk,
-you probably should go to **Twitter** or **Medium** as this platform has better feature to let your post being seeing.
+you probably should go to **Reddit**, **Twitter** or **Medium** as these platform has better feature to let your post being seeing.
 
 This Hiddout User Agreement (**"Terms"**) applies to your access to and use of the websites and other online products and services (collectively, the **"Services"**) provided by Hiddout.
 (**"Hiddout,"** **"we,"** or **"us"**).
