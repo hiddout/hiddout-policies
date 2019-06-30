@@ -40,3 +40,8 @@ We have a variety of ways of enforcing our rules, including, but not limited to
 
 ### Moderation within communities
 Individual moderator on Hiddout may have their own rules in addition to ours to enforce them. Hiddout provides tools to aid moderators, but does not prescribe their usage.
+
+## Also see
+#### [Hiddout User Agreement](https://github.com/hiddout/hiddout-policies/blob/master/UserAgreement.md)
+
+#### [Hiddout Privacy Policy](https://github.com/hiddout/hiddout-policies/blob/master/PrivacyPolicy.md)

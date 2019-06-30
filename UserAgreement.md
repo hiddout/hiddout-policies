@@ -16,7 +16,7 @@ Hiddout will inform you and delete the data for you, also prevent any search eng
 Hiddout still could be used for regular communication(find friends, gaming group),
 but **keep in mind internet is a messy place, do not trust any information on Hiddout without verifying.**
 
-Please take a look at Hiddout’s Privacy Policy too—it explains how we collect, use, and share information about you when you access or use our Services.
+Please take a look at Hiddout’s [Privacy Policy](https://github.com/hiddout/hiddout-policies/blob/master/PrivacyPolicy.md) too—it explains how we collect, use, and share information about you when you access or use our Services.
 
 ### 1. Your Access to the Services
 
@@ -71,7 +71,7 @@ Any ideas, suggestions, and feedback about Hiddout or our Services that you prov
 and feedback without compensation or obligation to you.
 
 Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete or remove Your Content at any time and for any reason,
-including for a violation of these Terms, a violation of our Content Policy, or if you otherwise create liability for us.
+including for a violation of these Terms, a violation of our [Content Policy](https://github.com/hiddout/hiddout-policies/blob/master/ContentPolicy.md), or if you otherwise create liability for us.
 
 ### 5. Third-Party Content, Advertisements and Promotions
 The Services may contain links to third-party websites, products, or services, which may be posted by advertisers, our affiliates, our partners, or other users (**“Third-Party Content”**).
@@ -87,12 +87,12 @@ The terms of your promotion must specifically state that the promotion is not sp
 or associated with Hiddout and the rules for your promotion must require each entrant or participant to release Hiddout from any liability related to the promotion.
 
 ### 6. Things You Cannot Do
-When accessing or using the Services, you must respect others and their rights, including by following these Terms and the Content Policy, so that we all may continue to use and enjoy the Services.
+When accessing or using the Services, you must respect others and their rights, including by following these Terms and the [Content Policy](https://github.com/hiddout/hiddout-policies/blob/master/ContentPolicy.md), so that we all may continue to use and enjoy the Services.
 We support the responsible reporting of security vulnerabilities. Please [open an issue](https://github.com/hiddout/hiddout-core/issues) in our repository.
 
 When accessing or using our Services, you will not:
 
-* Create or submit Content that violates our Content Policy or attempt to circumvent any content-filtering techniques we use;
+* Create or submit Content that violates our [Content Policy](https://github.com/hiddout/hiddout-policies/blob/master/ContentPolicy.md) or attempt to circumvent any content-filtering techniques we use;
 
 * Use the Services to violate applicable law or infringe any person or entity's intellectual property or any other proprietary rights;
 
@@ -128,7 +128,7 @@ If you choose to moderate:
 
 * If you have access to non-public information as a result of moderating a post, you will use such information only in connection with your performance as a moderator; and
 
-* You may create and enforce rules for the posts you moderate, provided that such rules do not conflict with these Terms, our Content Policy, and the Moderator Guidelines.
+* You may create and enforce rules for the posts you moderate, provided that such rules do not conflict with these Terms, our [Content Policy](https://github.com/hiddout/hiddout-policies/blob/master/ContentPolicy.md), and the Moderator Guidelines.
 
 Hiddout reserves the right, but has no obligation, to overturn any action or decision of a moderator if Hiddout believes that such action or decision is not in the interest of Hiddout or the Hiddout community.
 
@@ -165,7 +165,7 @@ By continuing to access or use the Services on or after the Effective Date of th
 ### 13. Termination
 You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing your use of all Services. If you stop using the Services without deactivating your Accounts, your Accounts may be deactivated due to prolonged inactivity.
 
-We may suspend or terminate your Accounts, status as a moderator, or ability to access or use the Services at any time for any or no reason, including for a violation of these Terms or our Content Policy.
+We may suspend or terminate your Accounts, status as a moderator, or ability to access or use the Services at any time for any or no reason, including for a violation of these Terms or our [Content Policy](https://github.com/hiddout/hiddout-policies/blob/master/ContentPolicy.md).
 
 The following sections will survive any termination of these Terms or of your Accounts: 4 (Your Content), 6 (Things You Cannot Do), 9 (Indemnity), 10 (Disclaimers), 11 (Limitation of Liability), 13 (Termination), and 14 (Miscellaneous).
 
@@ -173,3 +173,8 @@ The following sections will survive any termination of these Terms or of your Ac
 These Terms constitute the entire agreement between you and us regarding your access to and use of the Services. Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.
 If any provision of these Terms is, for any reason, held to be illegal, invalid or unenforceable, the rest of the Terms will remain in effect. You may not assign or transfer any of your rights or obligations under these Terms without our consent.
 We may freely assign these Terms.
+
+## Also see
+#### [Hiddout Privacy Policy](https://github.com/hiddout/hiddout-policies/blob/master/PrivacyPolicy.md)
+
+#### [Hiddout Content Policy](https://github.com/hiddout/hiddout-policies/blob/master/ContentPolicy.md)

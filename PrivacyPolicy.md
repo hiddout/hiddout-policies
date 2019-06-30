@@ -98,4 +98,9 @@ Children must be over the age required by the laws of your country to create an 
 We may change this Privacy Policy from time to time. If we do, we will let you know by adding a statement to the front page or sending you a notification.
 
 ### Contact Us
-If you have any questions about this Privacy Policy, please contact us via website or create an issue here.
+If you have any questions about this Privacy Policy, please contact us via website or [open an issue](https://github.com/hiddout/hiddout-policies/issues) here.
+
+## Also see
+#### [Hiddout User Agreement](https://github.com/hiddout/hiddout-policies/blob/master/UserAgreement.md)
+
+#### [Hiddout Content Policy](https://github.com/hiddout/hiddout-policies/blob/master/ContentPolicy.md)
