@@ -2,16 +2,16 @@
 **Hiddout is not aiming for an open entertainment platform**. 
 
 What that means is, if you are looking for sharing some very important idea and talk,
-you probably should go to **Reddit**, **Twitter** or **Medium** as these platform has better feature to let your post being seeing.
+you probably should go to **Reddit**, **Twitter** or **Medium** as these platforms have better feature to let your post being seeing.
 
 This Hiddout User Agreement (**"Terms"**) applies to your access to and use of the websites and other online products and services (collectively, the **"Services"**) provided by Hiddout.
 (**"Hiddout,"** **"we,"** or **"us"**).
 
-Hiddout has some feature which provide privacy for user who feels the needs to be in a closer environment that talk or conversation does not spread too wildly,
-that all Hiddout user feels topic is more matter than the identity.
+Hiddout has some feature which provide privacy for user who feels the need to be in a closer environment that talk or conversation does not spread too wildly,
+that all Hiddout users feel topics are more matter than the identity of topics' creator.
 
-Hiddout will not collect any of your personal data, and will help you to identify the possible risky behavior when you are using Hiddout to submit some personal data.
-Hiddout will inform you and delete the data for you, also prevent any search engine easily have your information.
+Hiddout will not collect any of your personal data, and will identify the possible risky behavior when you are using Hiddout to submit some personal data.
+Hiddout will inform you and delete the data for you, also try to prevent any search engine have your information.
 
 Hiddout still could be used for regular communication(find friends, gaming group),
 but **keep in mind internet is a messy place, do not trust any information on Hiddout without verifying.**
