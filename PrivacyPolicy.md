@@ -67,7 +67,7 @@ Instead, Hiddout suggests all users do not submit any information that could rea
 
 Also try using browser like **Brave**, **Tor** instead of **Chrome** for better privacy protection. 
 
-### Your data protection rights
+### Your Data Protection Rights
 Hiddout would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
 * **The right to access** – You have the right to request Hiddout for copies of your personal data. We may charge you a small fee for this service.
@@ -87,10 +87,10 @@ If you make a request, we have one month to respond to you. If you would like to
 ### Cookies
 Hiddout does not use cookies to collect your information to recognize you. Hiddout only create a third-party cookies for Cloudflare for speed up website loading time and so on for better user experience.
 
-### How to manage cookies
+### How to Manage Cookies
 You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result.
 
-### Privacy policies of other websites
+### Privacy Policies of Other Websites
 Our website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
 
 ### Children
