@@ -33,7 +33,7 @@ When you use the Services, certain information may be shared with other users an
 
 * When you send private messages to other users the recipients of those messages will be able to see the content of your message, your username, and the date and time the message was sent;
 
-* When other users view your profile, they will be able to see information about your activities on the Services, such as your username, how much views in your page.
+* When other users view your profile, they will be able to see information about your activities on the Services, such as your username, how many views in your page.
 
 Otherwise, we do not share, sell, or give away your personal information to third parties unless one of the following circumstances applies:
 * With our partners.  We may share information with vendors, consultants, and other service providers (but not with advertisers and ad partners) who need access to such information to carry out work for us. The partner’s use of personal data will be subject to appropriate confidentiality and security measures;
