@@ -49,7 +49,7 @@ Otherwise, we do not share, sell, or give away your personal information to thir
 * Aggregated or de-identified information.  We may share information about you that has been aggregated or anonymized such that it cannot reasonably be used to identify you. For example, we may show the total number of times a post has been upvoted without identifying who the visitors were.
 
 ### Ads
-Hiddout currently does not have third-party advertisers, ad networks, and analytics providers to deliver advertising and content targeted to your interests and **will never do that without your approval**. 
+Hiddout may deliver advertising and content to you but **will never do that without your approval**, also ad will not target you by analyzing your behavior or information.
 
 ### Analytics Partners
 We use analytics partners (such as Cloudflare) to help analyze usage and traffic for our Services. As an example, we may use analytics partners to analyze and measure, in the aggregate, the number of unique visitors to our Services.
