@@ -1,7 +1,7 @@
 # Hiddout User Agreement
 **Hiddout is not aiming for an open entertainment platform**. 
 
-What that means is, if you are looking for sharing some important ideas and talks, you probably should go to **Reddit**, **Twitter** or **Medium**, as these platforms have better features to let your post being seen to a larger crowd and the search engines.
+What that means is, if you are looking for sharing some important ideas and talks, you probably should go to **Reddit**, **Twitter** or **Medium**, as these platforms have better features to let your content being seen to a larger crowd and the search engines.
 
 This Hiddout User Agreement (**"Terms"**) applies to your access to and use of the websites and other online products and services (collectively, the **"Services"**) provided by Hiddout. (**"Hiddout,"** **"we,"** or **"us"**).
 
